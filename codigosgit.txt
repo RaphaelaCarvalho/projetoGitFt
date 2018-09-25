@@ -4,4 +4,12 @@ git status -> ciclo de estados dos meus arquivos
 
 git add -> mostra o git quais arquivos ele deve versionar
 
+<<<<<<< HEAD
 git checkout master -> muda minha branch rafa para master (como se mudasse um item de uma branch para a outra)
+=======
+git add * -> salva todos os arquivos(incompletos ou não) para o git
+
+git push -> manda as alterações para repositório online 
+
+git checkout -> cria uma branche (separação ex: front/backend, projetos distintos)
+>>>>>>> rafa

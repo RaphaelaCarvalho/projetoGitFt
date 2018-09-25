@@ -3,3 +3,5 @@ git clone -> Traz o repositorio da nuvem para o diretório local
 git status -> ciclo de estados dos meus arquivos
 
 git add -> mostra o git quais arquivos ele deve versionar
+
+git checkout master -> muda minha branch rafa para master (como se mudasse um item de uma branch para a outra)
